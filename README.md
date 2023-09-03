@@ -1,2 +1,2 @@
-# iot
-Berisi Code IoT
+# Internet of Things
+*Berisi Code IoT*
